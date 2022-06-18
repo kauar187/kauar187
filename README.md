@@ -1,4 +1,6 @@
 KAUA RODRIGUES...
+![57615b8c0092a66c1d4058b1692955cc](https://user-images.githubusercontent.com/104228989/174423752-d7571692-3287-4b1e-accd-41e3919ec3b1.gif)
+
 =====================
 
 Estou no médio, fazendo o curso de informática.
