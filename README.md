@@ -5,7 +5,6 @@ Estou no médio, fazendo o curso de informática.
 
 * 🌍  Sou de Paraiso-To
 * ✉️  Falem cmg [kaua.martins2@etudante.ifto.edu.br](mailto:kaua.martins2@etudante.ifto.edu.br)
-* https://i.pinimg.com/originals/57/61/5b/57615b8c0092a66c1d4058b1692955cc.gif![57615b8c0092a66c1d4058b1692955cc](https://user-images.githubusercontent.com/104228989/174423614-b20de8b3-87dc-450d-ad20-82ae748f9a52.gif)
 
 
 <a href="https://www.twitter.com/Info_burro" target="_blank" rel="noreferrer"><img
