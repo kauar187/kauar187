@@ -3,8 +3,8 @@ KAUA RODRIGUES...
 
 Estou no médio, fazendo o curso de informática.
 
-* 🌍  I'm based in Paraiso-To
-* ✉️  You can contact me at [kaua.martins2@etudante.ifto.edu.br](mailto:kaua.martins2@etudante.ifto.edu.br)
+* 🌍  Sou de Paraiso-To
+* ✉️  Falem cmg [kaua.martins2@etudante.ifto.edu.br](mailto:kaua.martins2@etudante.ifto.edu.br)
 
 <a href="https://www.twitter.com/Info_burro" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/Info_burro?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
